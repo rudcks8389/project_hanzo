@@ -55,7 +55,6 @@
    |<img width="1640" alt="마이페이지" src="https://github.com/ROKTIC/project_hanzo_final/assets/38402914/1ffb356a-5c95-4e8c-bd85-827c68f7db11">|<img width="1640" alt="내 정보" src="https://github.com/ROKTIC/project_hanzo_final/assets/38402914/8846865f-cb4a-4e1b-ba17-6c045d47f5bc">|
 
 
-## :clipboard: 최종 자료 ppt
-
-
+## :clipboard: 최종 자료 ppt(Download)
+[3조 HANZO ppt.pdf](https://github.com/user-attachments/files/18268603/3.HANZO.ppt.pdf)
 
